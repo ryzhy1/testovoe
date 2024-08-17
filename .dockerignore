@@ -1,0 +1,9 @@
+# Исключаем ненужные файлы и директории
+.git
+.env
+.idea
+.vscode
+vendor
+/tmp
+/log
+*.md
